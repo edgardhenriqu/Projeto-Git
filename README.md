@@ -1,29 +1,28 @@
-**🔎 GitFind**
-Um buscador de perfis e repositórios do GitHub, desenvolvido em ReactJS.
+**🚀 GitFind**
 
+Um buscador rápido e intuitivo de perfis do GitHub, desenvolvido em ReactJS, com foco em simplicidade, velocidade e experiência do usuário.
 
-**🌟 Sobre o Projeto**
-O GitFind é uma aplicação web simples e elegante que permite aos usuários buscar rapidamente por qualquer perfil de usuário do GitHub. Ao realizar a busca, a aplicação exibe as informações principais do usuário (como nome, foto e descrição) e lista todos os seus repositórios públicos, tornando a navegação e descoberta de projetos mais eficiente.
+**✨ Sobre o Projeto**
 
+O GitFind é uma aplicação web simples e elegante que permite buscar qualquer perfil público do GitHub apenas informando o nome de usuário.
+Após a pesquisa, a aplicação exibe as principais informações do perfil (como foto, nome, bio) e lista todos os repositórios públicos do usuário de maneira organizada.
+**
+🔎 Funcionalidades**
 
-**✨ Funcionalidades**
-Busca Rápida: Encontre qualquer perfil do GitHub usando o username.
+Busca Instantânea: Localize qualquer perfil público do GitHub usando apenas o username.
 
-Informações do Perfil: Visualização imediata da foto, nome completo e informações de bio do usuário.
+Detalhes do Perfil: Exibe foto, nome completo, bio e outras informações relevantes do usuário.
 
-Listagem de Repositórios: Apresenta uma lista de todos os repositórios públicos do usuário encontrado, com links diretos para cada projeto no GitHub.
+Listagem de Repositórios: Mostra todos os repositórios públicos com links diretos para cada projeto.
 
-Interface Intuitiva: Design minimalista e focado na experiência do usuário (UX).
+Design Minimalista: Interface clara, objetiva e focada totalmente na experiência do usuário (UX).
 
+**🛠️ Tecnologias Utilizadas**
 
-**🚀 Tecnologias Utilizadas**
+⚛️ ReactJS — Biblioteca para construção da interface.
 
-Este projeto foi construído utilizando as seguintes tecnologias:
+🌐 API do GitHub — Para busca de dados do usuário e repositórios.
 
-ReactJS: Biblioteca JavaScript para a construção da interface do usuário.
+🧱 HTML5 — Estrutura do projeto.
 
-HTML5: Estrutura base da aplicação.
-
-CSS3/Styles.css: Estilização personalizada, seguindo um tema escuro.
-
-API do GitHub: Utilizada para buscar dados de usuários e repositórios.
+🎨 CSS3 (Styles.css) — Estilização personalizada seguindo um tema escuro.
