@@ -26,3 +26,4 @@ Design Minimalista: Interface clara, objetiva e focada totalmente na experiênci
 🧱 HTML5 — Estrutura do projeto.
 
 🎨 CSS3 (Styles.css) — Estilização personalizada seguindo um tema escuro.
+<img width="1898" height="920" alt="image" src="https://github.com/user-attachments/assets/e058027d-0e85-43e1-9350-0b72be2662db" />
