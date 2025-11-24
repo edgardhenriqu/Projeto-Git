@@ -1,10 +1,10 @@
-🔎 GitFind
+**🔎 GitFind**
 Um buscador de perfis e repositórios do GitHub, desenvolvido em ReactJS.
 
-🌟 Sobre o Projeto
+**🌟 Sobre o Projeto**
 O GitFind é uma aplicação web simples e elegante que permite aos usuários buscar rapidamente por qualquer perfil de usuário do GitHub. Ao realizar a busca, a aplicação exibe as informações principais do usuário (como nome, foto e descrição) e lista todos os seus repositórios públicos, tornando a navegação e descoberta de projetos mais eficiente.
 
-✨ Funcionalidades
+**✨ Funcionalidades**
 Busca Rápida: Encontre qualquer perfil do GitHub usando o username.
 
 Informações do Perfil: Visualização imediata da foto, nome completo e informações de bio do usuário.
@@ -13,7 +13,7 @@ Listagem de Repositórios: Apresenta uma lista de todos os repositórios públic
 
 Interface Intuitiva: Design minimalista e focado na experiência do usuário (UX).
 
-🚀 Tecnologias Utilizadas
+**🚀 Tecnologias Utilizadas**
 
 Este projeto foi construído utilizando as seguintes tecnologias:
 
