@@ -9,7 +9,8 @@ O **GitFind** é uma aplicação web simples e elegante que permite buscar qualq
 Após a pesquisa, a aplicação exibe as principais informações do perfil (como foto, nome, bio) e lista todos os repositórios públicos do usuário de maneira organizada, facilitando a navegação e descoberta de projetos.
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/e05802f4-8e85-43e8-9358-8b73be26620b" alt="Captura de tela da aplicação GitFind em funcionamento, mostrando um perfil e seus repositórios." width="700px" />
+    <img width="1881" height="945" alt="image" src="https://github.com/user-attachments/assets/e354a18b-f16e-49de-89e7-9074662b9d2e" />
+
 </p>
 
 ## ✨ Funcionalidades
