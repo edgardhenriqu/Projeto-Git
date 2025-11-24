@@ -29,15 +29,3 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 * **HTML5:** Estrutura base do projeto.
 * **CSS3 (Styles.css):** Estilização personalizada, seguindo um tema escuro.
 
-## ⚙️ Instalação e Execução (Para Desenvolvedores)
-
-Para ter uma cópia local do projeto rodando em sua máquina, siga os passos abaixo:
-
-### Pré-requisitos
-Certifique-se de ter o [Node.js](https://nodejs.org/) e o [npm](https://www.npmjs.com/) (ou yarn) instalados.
-
-### 1. Clone o Repositório
-
-```bash
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-cd SEU_REPOSITORIO
