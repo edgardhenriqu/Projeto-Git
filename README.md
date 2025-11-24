@@ -6,8 +6,8 @@ Um buscador rápido e intuitivo de perfis do GitHub, desenvolvido em ReactJS, co
 
 O GitFind é uma aplicação web simples e elegante que permite buscar qualquer perfil público do GitHub apenas informando o nome de usuário.
 Após a pesquisa, a aplicação exibe as principais informações do perfil (como foto, nome, bio) e lista todos os repositórios públicos do usuário de maneira organizada.
-**
-🔎 Funcionalidades**
+
+**🔎 Funcionalidades****
 
 Busca Instantânea: Localize qualquer perfil público do GitHub usando apenas o username.
 
